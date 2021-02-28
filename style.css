@@ -1,0 +1,8 @@
+h1{
+    color: chocolate;
+}
+
+.grid{
+    background-color: fuchsia;
+    flex-direction: column;
+}
